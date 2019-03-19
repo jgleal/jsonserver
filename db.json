@@ -3,35 +3,35 @@
     {
       "id": 1,
       "titulo": "Aviso alto 1",
-      "descripcion": "Descripción extendida que no sé si finalmente será implementada. Tampoco tengo claro como encajaría en la interfaz porque lo que es necesario aclarar este punto cuanto antes",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices et enim in bibendum. Suspendisse diam purus, maximus semper imperdiet ac, pellentesque at nunc. Suspendisse potenti. Aenean molestie justo libero, id porta ex facilisis sed. Vivamus blandit ipsum sed libero malesuada, at blandit sapien semper. Sed maximus id leo vitae bibendum. Donec tempus erat at dui gravida, ut blandit elit porttitor. Proin lobortis, quam sed ornare ullamcorper, libero libero hendrerit mi, a vulputate turpis ante eu nulla",
       "timestamp": "2019-03-13T10:25:17.937Z",
       "prioridad": 1
     },
     {
       "id": 2,
       "titulo": "Aviso bajo 1",
-      "descripcion": "Descripción extendida que no sé si finalmente será implementada. Tampoco tengo claro como encajaría en la interfaz porque lo que es necesario aclarar este punto cuanto antes",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices et enim in bibendum. Suspendisse diam purus, maximus semper imperdiet ac, pellentesque at nunc. Suspendisse potenti. Aenean molestie justo libero, id porta ex facilisis sed. Vivamus blandit ipsum sed libero malesuada, at blandit sapien semper. Sed maximus id leo vitae bibendum. Donec tempus erat at dui gravida, ut blandit elit porttitor. Proin lobortis, quam sed ornare ullamcorper, libero libero hendrerit mi, a vulputate turpis ante eu nulla.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices et enim in bibendum. Suspendisse diam purus, maximus semper imperdiet ac, pellentesque at nunc. Suspendisse potenti. Aenean molestie justo libero, id porta ex facilisis sed. Vivamus blandit ipsum sed libero malesuada, at blandit sapien semper. Sed maximus id leo vitae bibendum. Donec tempus erat at dui gravida, ut blandit elit porttitor. Proin lobortis, quam sed ornare ullamcorper",
       "timestamp": "2019-03-13T10:30:17.937Z",
       "prioridad": 3
     },
     {
       "id": 3,
       "titulo": "Aviso medio 1",
-      "descripcion": "Descripción extendida que no sé si finalmente será implementada. Tampoco tengo claro como encajaría en la interfaz porque lo que es necesario aclarar este punto cuanto antes",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices et enim in bibendum.",
       "timestamp": "2019-03-13T12:25:17.937Z",
       "prioridad": 2
     },
     {
       "id": 4,
       "titulo": "Aviso medio 2",
-      "descripcion": "Descripción extendida que no sé si finalmente será implementada. Tampoco tengo claro como encajaría en la interfaz porque lo que es necesario aclarar este punto cuanto antes",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "timestamp": "2019-03-13T15:25:17.937Z",
       "prioridad": 2
     },
     {
       "id": 5,
       "titulo": "Aviso alto 2",
-      "descripcion": "Descripción extendida que no sé si finalmente será implementada. Tampoco tengo claro como encajaría en la interfaz porque lo que es necesario aclarar este punto cuanto antes",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices et enim in bibendum. Suspendisse diam purus, maximus",
       "timestamp": "2019-03-13T20:25:17.937Z",
       "prioridad": 1
     }
